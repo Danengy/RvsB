@@ -48,6 +48,6 @@ class Battlefield:
 
     def display_winner(self):
         if t_rex.dino_health ==0:
-            print(f"The Robot: {alpha.robot_name} WINS!!")
+            print(f"The Robot: {alpha.robot_name}, WINS!!")
         elif alpha.robot_health == 0:
-            print(f"The Dinosaur: {t_rex.dino_name} WINS!!")
+            print(f"The Dinosaur: {t_rex.dino_name}, WINS!!")

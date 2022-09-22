@@ -1,7 +1,4 @@
-# from generate_battlefield import Battlefield
+from generate_battlefield import Battlefield
 
-# battle = Battlefield()
-# battle.run_game() 
-
-
-print("Hello")
+battle = Battlefield()
+battle.run_game() 
