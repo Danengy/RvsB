@@ -1,3 +1,4 @@
+print("Hello")
 from generate_dino import Dinosaur
 from generate_robot import Robot
 
